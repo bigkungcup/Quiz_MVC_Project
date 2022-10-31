@@ -1,0 +1,28 @@
+body {
+    margin: 30px 50px ;
+}
+table {
+    width: 80% ;
+}
+th, td {
+    border-bottom: 1px solid #ddd ;
+    text-align: center;
+}
+.label {
+    font-weight: bold;
+    color: darkblue;
+}
+.card {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+.action {
+    color: darkorange;
+}
+.hide {
+    display: none ;
+}
+.correct {
+    background-color: greenyellow;
+}
+
